@@ -1,12 +1,15 @@
 # Code Refactor Starter Code
-
+## Challenge 1
 To refactor an exisiting webpage in order to make it accessible, for optimizing search engines
+ ![](./assets/images/screenshot-challenge-1.png)
+ 
+### Acceptance Criteria:
+Meets webpage accessibility standards 
 
-<B>Acceptance Criteria</B>
+- Contains semantic HTML elements
+- Elements following a logical structure independent of styling and positioning</li>
+- Includes accessible alt attributes
+- Heading attrubuts is in sequential orders
+- Include concise and descriptive title
 
-<li> Meets webpage accessibility standards </li>
-<li>Contains semantic HTML elements</li>
-<li>Elements following a logical structure independent of styling and positioning</li>
-<li>Includes accessible alt attributes</li>
-<li>Heading attrubuts is in sequential orders</li>
-<li>Include concise and descriptive title</li>
+[Deployed Application](https://stran0430.github.io/Refactor-challenge-1/)
