@@ -4,8 +4,8 @@ To refactor an exisiting webpage in order to make it accessible, for optimizing 
  ![](./assets/images/screenshot-challenge-1.png)
  
 ### Acceptance Criteria:
-Meets webpage accessibility standards 
 
+- Meets webpage accessibility standards 
 - Contains semantic HTML elements
 - Elements following a logical structure independent of styling and positioning</li>
 - Includes accessible alt attributes
